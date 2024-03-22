@@ -12,7 +12,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I'm a student at the "Escuela Politécnica Nacional"
+- 🔭 I'm a student at "Escuela Politécnica Nacional"
   
 - 🌱 I’m currently learning React, Angular, Joomla 
   
