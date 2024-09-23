@@ -5,7 +5,7 @@
 ![Banner](https://github.com/cmGitHub192/cmGitHub192/assets/150628254/08e52f8a-966f-4401-8abc-2ec41d475e97)
 
 <div align=center>
-    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Computer+Science+Student;Interested+in%3A+Fullstack+Dev%2C;AI+and+Cybersecurity" alt="Headline" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Computer+Science+Student;Interested+in%3A+Frontend+Dev%2C;AI+and+Cybersecurity" alt="Headline" />
 </div>
 
 <h2> About Me </h2>
