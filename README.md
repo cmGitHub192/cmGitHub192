@@ -14,7 +14,7 @@
 
 - 🔭 I'm a student at "Escuela Politécnica Nacional"
   
-- 🌱 I’m currently learning Power Automate 
+- 🌱 I’m currently learning Next.js, Angular
   
 - 👯 I’m looking to collaborate on interesting projects
   
